@@ -171,12 +171,16 @@ key LEFT_BRACKET {
     label:                              '['
     base:                               '['
     shift:                              '{'
+    ralt:                               '\u2039'
+    ralt+shift:                         '\u00ab'
 }
 
 key RIGHT_BRACKET {
     label:                              ']'
     base:                               ']'
     shift:                              '}'
+    ralt:                               '\u203a'
+    ralt+shift:                         '\u00bb'
 }
 
 key BACKSLASH {
