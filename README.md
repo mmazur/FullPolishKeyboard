@@ -19,10 +19,10 @@ Budowanie
 
 Najpierw trzeba ściągnąć sdk i wrzucić sobie 'sdk/tools' w $PATH, po czym:
 
-  cd FullPolishKeyboard
-  android update project -t android-19 -p .
-  mkdir src
-  ant debug
+    cd FullPolishKeyboard
+    android update project -t android-19 -p .
+    mkdir src
+    ant debug
   
 Wynikowy plik będzie w 'bin'.
 
