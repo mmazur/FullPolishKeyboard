@@ -18,6 +18,9 @@
 
 type OVERLAY
 
+# On Lenovo A10 this remaps MENU key to ALT_RIGHT
+#map key 139 ALT_RIGHT
+
 ### ROW 1
 
 key GRAVE {
