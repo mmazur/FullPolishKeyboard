@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <keyboard-layouts
   xmlns:android="http://schemas.android.com/apk/res/android">
-  <keyboard-layout android:label="@string/full_polish_keyboard_label" android:name="@string/app_name" android:keyboardLayout="@raw/full_polish_keyboard" />
+  <keyboard-layout android:label="@string/full_polish_keyboard_label" android:name="full_polish_keyboard_layout" android:keyboardLayout="@raw/full_polish_keyboard" />
+  <keyboard-layout android:label="@string/full_polish_keyboard_no_menu_key_label" android:name="full_polish_keyboard_layout_no_menu_key" android:keyboardLayout="@raw/full_polish_keyboard_no_menu_key" />
 </keyboard-layouts>

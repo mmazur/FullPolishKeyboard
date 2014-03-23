@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Full Polish Keyboard</string>
-    <string name="full_polish_keyboard_label">Polish (Programmers+)</string>
+    <string name="full_polish_keyboard_label">Polski (programisty)</string>
+    <string name="full_polish_keyboard_no_menu_key_label">Polski (programisty), bez klawisza Menu</string>
 </resources>
